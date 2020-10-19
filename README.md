@@ -8,7 +8,7 @@ I tried to send it via Facebook the quality always get reduce
 # 😃Credits 
 
 
-**Not mine I forgot the name of the owner but God hasn't forget him 😅😅**
+**Not mine I forgot the name of the owner but God hasn't forgotten him 😅😅**
 
 
 # 😂More
