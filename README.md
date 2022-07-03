@@ -26,4 +26,4 @@ First described in 2015, Flutter was released in May 2017. </h3></p>
 
 <p>KNOW YOUR FLUTTER BETTER</p>
 
-<h3 >The first release of Flutter was known as "Sky Engine" and it ran only on the Andriod operating system. it was first announced at the 2015 Dart Developer Submit (April 30 2015) By Eric Seidel with the intention of consistent rendering at 120 Frame per second (FPS)</h3>
+<h3 >The first release of Flutter was known as "Sky Engine" and it ran only on the Andriod operating system. it was first announced at the 2015 Dart Developer Submit (April 30 2015) By <a href="www.eseidel.com"> Eric Seidel </a>with the intention of consistent rendering at 120 Frame per second (FPS)</h3>
