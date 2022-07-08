@@ -23,7 +23,12 @@
 
 <p><h3 align="center">Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase.
 First described in 2015, Flutter was released in May 2017. </h3></p>
+<h1></h1>
 
-<p><h1>KNOW YOUR FLUTTER BETTER</p>
+<p><h2>KNOW YOUR FLUTTER BETTER</h2></p>
 
-<h3 >The first release of Flutter was known as "Sky Engine" and it ran only on the Andriod operating system. it was first announced at the 2015 Dart Developer Submit (April 30 2015) By <a href="www.eseidel.com"> Eric Seidel </a>with the intention of consistent rendering at 120 Frame per second (FPS) it's was pretty good one that i think every Flutter Developer should watch on <a href="https://www.youtube.com/watch?v=PnIWl33YMwA"> Youtube </a> This video covers pretty much of Flutter Early Stage Development how to write an Hello World in Sky  </h3>
+<h3 >The first release of Flutter was known as "Sky Engine" and it ran only on the Andriod operating system. it was first announced at the 2015 Dart Developer Submit (April 30 2015) By <a href="www.eseidel.com"> Eric Seidel </a>with the intention of consistent rendering at 120 Frame per second (FPS) it's was pretty good one that i think every Flutter Developer should watch on <a href="https://www.youtube.com/watch?v=PnIWl33YMwA"> Youtube </a> This video covers pretty much of Flutter Early Stage Development how to write an Hello World with Sky Framework... Fast forwaded ▶▶ to September 2018 at the Google Developer Days keynote in Shangai China ⛩⛩, Google Announced Flutter Release Preview, the last major release before the Flutter 1.0. On 4th December 2018 Google Made the Flutter 1.0 release at the Flutter Live Event, denoting the first stable version of the Framework </h3>
+<h1></h1>
+
+<p><h2>Google Next Big News</h2></p>
+<h3>On March 3 2021, Google rolled out a new release Flutter 2.0 during an online Flutter Engage Event, This major update cuts across All Platforms (Windows, macOS and Linus) along side this release was also Dart 2.0 that featured sound-null-safey (null-safety) and also included the Migration Tools</h3>
