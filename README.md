@@ -31,4 +31,11 @@ First described in 2015, Flutter was released in May 2017. </h3></p>
 <h1></h1>
 
 <p><h2>Google Next Big News</h2></p>
-<h3>On March 3 2021, Google rolled out a new release Flutter 2.0 during an online Flutter Engage Event, This major update cuts across All Platforms (Windows, macOS and Linus) along side this release was also Dart 2.0 that featured sound-null-safey (null-safety) and also included the Migration Tools</h3>
+<h3>On March 3 2021, Google rolled out a new release Flutter 2.0 during an online Flutter Engage Event, This major update cuts across All Platforms (Windows, macOS and Linus) along side this release was also Dart 2.0 that featured sound-null-safey (null-safety) and also included the Migration Tools, The Current Flutter SDK version as of the Today is 3.0.5 Supports Andriod, iOS, Web, Windows, MacOS, Linux and Game Development with Just one codebase(sheesh, if you ask me She's a 10 out of 10)  We are exicted to hear what the next Update's gon bring to the Table </h3>
+
+<p><h2>A Little Introduction about Myself and this Roadmap</h2></p>
+<h3>Hi there, My name's Dammy A Flutter Developer, Actually i have been written Dart/Flutter for Three years now and i have worked with A lot of Companies Small to Medium Scale, I'm written this To share according to my years of experience it's a piece of information i wish i had access to In my early stage,   I'm not the author of this Roadmap, i found it somehow during my early stage of learning Flutter Development not quite long i was going thru my Github Repos and i found this Treasure Map , So here i'm trying to buttress every single details this map holds and Lead you to becomme a Flutter Champion 🏆🏆🏆 Kudos to the Creator of the Map He's a Superhero without Cap Cheers 🎉🎉 to Every Heros out there, Below you will find the picture of the Roadmap and Notes Please Enjoy </h3>
+
+<p><h1>A Gem</h1></p>
+<h3><img src="assets/images/roadmap.png"/>
+</h3>
